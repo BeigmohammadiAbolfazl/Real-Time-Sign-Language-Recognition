@@ -289,7 +289,7 @@ Text / Speech Output
 
 ## 👨‍💻 Author
 
-**Abolfazl Big Mohammadi**
+**Abolfazl Beig Mohammadi**
 
 Computer Science / Software Engineering  
 Interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Software Development**.
